@@ -53,43 +53,38 @@ Tenho foco em desenvolvimento back-end com Laravel, mas também atuo na constru�
 
 #### Taskly / TaskManager
 
-O **Taskly** é um projeto pessoal de portfólio desenvolvido para praticar e demonstrar minhas habilidades com PHP, Laravel, MySQL, Livewire, modelagem relacional, interfaces reativas e organização de sistemas web.
+O **Taskly** é um projeto pessoal desenvolvido para praticar e demonstrar minhas habilidades na criação de sistemas web com **PHP, Laravel, MySQL e Livewire**.
 
-A proposta do projeto é simular uma ferramenta moderna de produtividade, reunindo funcionalidades de Kanban, central de chamados, dashboard, agenda, relatórios, autenticação, anexos e controle operacional.
+A proposta do sistema é simular uma plataforma de produtividade com recursos como **Kanban, central de chamados, dashboard, agenda, relatórios, autenticação, anexos e controle operacional**.
 
-Todas as funcionalidades foram desenvolvidas do zero como parte de um projeto pessoal de estudos e portfólio, com o objetivo de praticar conceitos do ecossistema Laravel, modelagem relacional, interfaces reativas, organização de código e construção de sistemas web com funcionalidades próximas de um produto real.
+Durante o desenvolvimento, trabalhei com modelagem relacional, organização de rotas, controllers, componentes, interfaces reativas e boas práticas na estruturação de uma aplicação Laravel.
 
 
 
-**Principais funcionalidades:**
 
-* Autenticação de usuários
-* Dashboard com indicadores e dados acionáveis
-* Quadro Kanban com drag and drop
-* Criação, edição, exclusão e restauração de tarefas
-* Organização por quadros, colunas, prioridades e responsáveis
-* Subtarefas com progresso
-* Anexos em tarefas e chamados
-* Central de chamados com controle de status, prioridade e SLA
-* Busca e filtros por status, prioridade e solicitante
-* Agenda com visualização mensal, semanal e em lista
-* Relatórios operacionais com indicadores por período
-* Interface dark responsiva
-* Identidade visual própria com logo e favicon
+#### Principais funcionalidades
 
-**Stack utilizada:**
+| Área             | Funcionalidades                                                           |
+| ---------------- | ------------------------------------------------------------------------- |
+| **Autenticação** | Login de usuários e controle de acesso                                    |
+| **Dashboard**    | Indicadores, dados acionáveis e resumo operacional                        |
+| **Kanban**       | Quadros, colunas, cards, prioridades, responsáveis e drag and drop        |
+| **Tarefas**      | Criação, edição, exclusão, restauração, subtarefas e progresso            |
+| **Chamados**     | Central de chamados com status, prioridade, solicitante e controle de SLA |
+| **Anexos**       | Upload e gerenciamento de arquivos em tarefas e chamados                  |
+| **Agenda**       | Visualização mensal, semanal e em lista                                   |
+| **Relatórios**   | Indicadores operacionais por período                                      |
+| **Interface**    | Layout dark responsivo, logo e favicon próprios                           |
 
-* PHP
-* Laravel
-* MySQL
-* Livewire
-* Blade
-* Alpine.js
-* Tailwind CSS
-* Vite
-* SortableJS
-* Chart.js
-* SweetAlert2
+#### Stack utilizada
+
+| Categoria                    | Tecnologias                              |
+| ---------------------------- | ---------------------------------------- |
+| **Backend**                  | PHP, Laravel, Eloquent ORM               |
+| **Frontend**                 | Blade, Livewire, Alpine.js, Tailwind CSS |
+| **Banco de dados**           | MySQL                                    |
+| **Ferramentas de interface** | Vite, SortableJS, Chart.js, SweetAlert2  |
+
 
 **Repositório:**
 https://github.com/CdeCinza/TaskManager
