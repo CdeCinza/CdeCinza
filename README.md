@@ -83,6 +83,8 @@ Durante o desenvolvimento, trabalhei com modelagem relacional, organização de 
 | **Backend**                  | PHP, Laravel, Eloquent ORM               |
 | **Frontend**                 | Blade, Livewire, Alpine.js, Tailwind CSS |
 | **Banco de dados**           | MySQL                                    |
+| **Ferramentas de interface** | Vite, SortableJS, Chart.js, SweetAlert2  |
+
 
 
 **Repositório:**
