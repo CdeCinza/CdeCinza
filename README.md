@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou o Matheus Marques 👋</h1>
 
 <p align="center">
-  Desenvolvedor Júnior com foco em PHP, Laravel, MySQL, Livewire e Blade
+  Desenvolvedor com foco em PHP, Laravel, MySQL, Livewire e Blade
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor júnior com experiência prática no desenvolvimento de aplicações web utilizando PHP, Laravel, MySQL, Livewire e Blade.
+Sou desenvolvedor com experiência prática no desenvolvimento de aplicações web utilizando PHP, Laravel, MySQL, Livewire e Blade.
 
 Atualmente trabalho com criação e manutenção de telas, dashboards, rotas, controllers, validações, integração com banco de dados, correções de bugs e melhorias em sistemas web.
 
